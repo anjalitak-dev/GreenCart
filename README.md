@@ -89,15 +89,4 @@ cd frontend
 npm install
 npm start
 
-#### Usage
-Create an Account: Users can sign up by providing their email and creating a password. Verification may be required.
 
-Browse Products: Navigate through categories to explore eco-friendly products.
-
-Add to Cart: Users can add items to their cart and view the total price.
-
-Checkout Process: Users can proceed to checkout, enter shipping information, and select a payment method.
-
-Order Confirmation: After placing an order, users receive a confirmation email with order details.
-
-Engage with the Community: Users can participate in discussions in the community forum and read blog articles.
