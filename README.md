@@ -9,10 +9,8 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [API Documentation](#api-documentation)
-- [Contributing](#contributing)
-- [License](#license)
+- [Screenshot](#screenshot)
+
 
 ---
 
@@ -70,7 +68,7 @@ Follow these steps to run the project locally:
 ```bash
 git clone https://github.com/anjalitak-dev/GreenCart.git
 cd GreenCart
-
+```
 ```bash
 cd backend
 npm install
@@ -81,12 +79,25 @@ PORT=5000
 
 Start the backend server:
 npm start
-
+```
+```bash
 Frontend Setup
+ 
 Open a new terminal:
 
 cd frontend
 npm install
 npm start
+```
+## Screenshots
+![Screenshot 2025-04-25 191402](https://github.com/user-attachments/assets/dc3d72c2-9058-4ce2-8e85-fbd4675e3e85)
+![Screenshot 2025-04-25 191415](https://github.com/user-attachments/assets/0f4c1c44-d8c6-4525-885e-600644f8ee4b)
+![Screenshot 2025-04-25 191425](https://github.com/user-attachments/assets/7bd1afba-07a5-48c2-8c3a-8567c20bbbf2)
+![Screenshot 2025-04-25 191446](https://github.com/user-attachments/assets/3a8cfc6d-b3f3-4d90-bc2f-feb2d5c348fa)
+![Screenshot 2025-04-25 193822](https://github.com/user-attachments/assets/e78bf834-471d-4781-8d57-b91908b4e20c)
+
+
+
+
 
 
